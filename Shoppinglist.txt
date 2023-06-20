@@ -1,3 +1,4 @@
+
 Shopping List:
 
 Tomatoes
@@ -6,3 +7,5 @@ Chicken
 beans
 Eggs
 Oats
+PB
+Pancake mix
