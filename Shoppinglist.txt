@@ -9,3 +9,4 @@ Eggs
 Oats
 PB
 Pancake mix
+nuts
