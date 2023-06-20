@@ -6,3 +6,5 @@ Chicken
 beans
 Eggs
 Oats
+Blueberries
+Strawberries
