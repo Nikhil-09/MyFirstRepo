@@ -10,3 +10,4 @@ Eggs
 Oats
 PB
 Pancake mix
+milk
