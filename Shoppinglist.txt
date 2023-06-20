@@ -2,6 +2,7 @@
 Shopping List:
 
 Tomatoes
+Cilantro
 potatoes
 Chicken
 beans
@@ -9,3 +10,4 @@ Eggs
 Oats
 PB
 Pancake mix
+milk
